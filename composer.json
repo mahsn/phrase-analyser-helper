@@ -1,0 +1,21 @@
+{
+  "name": "maximuspoder/phrase-analyser-helper",
+  "description": "Convert text to array and graph",
+  "license": "MIT",
+  "authors": [
+    {
+      "email": "developer.fernando@gmail.com",
+      "name": "Fernando Alves"
+    }
+  ],
+  "minimum-stability": "dev",
+  "require": {},
+  "require-dev": {
+        "phpunit/phpunit": "^8"
+  },
+  "autoload": {
+    "psr-4": {
+      "Maximuspoder\\PhraseAnalyser\\": "src/"
+    }
+  }
+}
