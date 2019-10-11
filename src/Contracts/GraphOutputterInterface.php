@@ -1,6 +1,6 @@
 <?php
 
-namespace Maximuspoder\PhraseAnalyser\Contracts;
+namespace Mahsn\PhraseAnalyser\Contracts;
 
 interface GraphOutputterInterface
 {

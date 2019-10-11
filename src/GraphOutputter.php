@@ -1,8 +1,8 @@
 <?php
 
-namespace Maximuspoder\PhraseAnalyser;
+namespace Mahsn\PhraseAnalyser;
 
-use Maximuspoder\PhraseAnalyser\Contracts\GraphOutputterInterface;
+use Mahsn\PhraseAnalyser\Contracts\GraphOutputterInterface;
 
 class GraphOutputter implements GraphOutputterInterface
 {

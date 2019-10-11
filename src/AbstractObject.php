@@ -1,6 +1,6 @@
 <?php
 
-namespace Maximuspoder\PhraseAnalyser;
+namespace Mahsn\PhraseAnalyser;
 
 abstract class AbstractObject
 {

@@ -2,8 +2,8 @@
 
 use PHPUnit\Framework\TestCase;
 
-use Maximuspoder\PhraseAnalyser\PhraseProcessor;
-use Maximuspoder\PhraseAnalyser\GraphOutputter;
+use Mahsn\PhraseAnalyser\PhraseProcessor;
+use Mahsn\PhraseAnalyser\GraphOutputter;
 
 class GraphTest extends TestCase
 {

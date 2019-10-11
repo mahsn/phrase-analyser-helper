@@ -1,9 +1,9 @@
 <?php
 
-namespace Maximuspoder\PhraseAnalyser;
+namespace Mahsn\PhraseAnalyser;
 
-use Maximuspoder\PhraseAnalyser\AbstractObject;
-use Maximuspoder\PhraseAnalyser\Contracts\PhraseProcessorInterface;
+use Mahsn\PhraseAnalyser\AbstractObject;
+use Mahsn\PhraseAnalyser\Contracts\PhraseProcessorInterface;
 
 class PhraseProcessor extends AbstractObject implements PhraseProcessorInterface
 {
